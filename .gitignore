@@ -1,0 +1,4 @@
+.env
+wcp-scanner/live_cache_poison_poc.txt
+wcp-scanner/live_cache_poison_report.txt
+wcp-scanner/sample_domains.txt
